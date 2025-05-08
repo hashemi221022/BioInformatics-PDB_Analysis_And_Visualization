@@ -21,6 +21,17 @@
             <h2>Get Started</h2>
             <p>Follow the steps in the notebook to unlock the power of PDB analysis and visualization!</p>
         </div>
+        <div class="section">
+            <h2>How to use?</h2>
+            <p>If you want to get notified about future changes, follow my GitHub account.</p>
+            <p>You can clone the project and work on it.</p>
+        </div>
     </div>
 </body>
 </html>
+
+```bash
+https://github.com/hashemi221022/bioinformatics-pdb-analysis-and-visualization.git
+```
+
+
