@@ -31,7 +31,7 @@
 </html>
 
 ```bash
-https://github.com/hashemi221022/bioinformatics-pdb-analysis-and-visualization.git
+https://github.com/hashemi221022/BioInformatics-PDB_Analysis_And_Visualization.git
 ```
 
 
